@@ -5,8 +5,7 @@ ISBN 5-02-013959-9 (russian version)
 
 <strong>Упражнения</strong>:
 
-e1 – Поведение последовательности
-https://github.com/indraminsk/arsac.git
+<a href="https://github.com/indraminsk/arsac.git">e1 – Поведение последовательности</a>
 
 e2 – Поиск других последовательностей
 https://github.com/indraminsk/arsac/tree/e2
